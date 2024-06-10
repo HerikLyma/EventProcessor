@@ -1,0 +1,21 @@
+# Auto generated files
+[Dd]ebug/
+[Rr]elease/
+build/*
+*.slo
+*.lo
+*.o
+*.obj
+*.suo
+*.tlog
+*.ilk
+*.log
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.opensdf
+*.sdf
+*.txt.user
+.vscode
+build
